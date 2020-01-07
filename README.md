@@ -5,7 +5,7 @@ Plot time series behavioral video + corresponding neural activity + analysis in 
 
 Run 'data_animation.m' to create an animated video combining inputs:
 - 'video.avi': Mouse raw behavior video
-- 'data_behavior.xlsx': Mouse behavior (% freezing)
+- 'data_behavioral.xlsx': Mouse behavior (% freezing)
 - 'data_neural.mat': Mouse neural activity (GCaMP)
 
 Output video: 
